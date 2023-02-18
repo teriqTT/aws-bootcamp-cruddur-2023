@@ -20,3 +20,13 @@ Here is a link to my lucid.io account: https://lucid.app/lucidchart/49b4f0b7-a16
 ![image](https://user-images.githubusercontent.com/101008098/219869620-621540e1-13b5-4172-bcba-100829554995.png)
 
 
+## Screenshot demonstrating that I created users for my AWS account.
+![image](https://user-images.githubusercontent.com/101008098/219878565-cc60484d-12f8-4dda-8b75-69aa88b8b536.png)
+
+
+## Screenshot demonstrating that I activated MFA.
+![image](https://user-images.githubusercontent.com/101008098/219878649-40a30b2b-4d06-4465-bd98-c7fbd34632f6.png)
+
+
+## Screenshot showing that I went through the Well Architected Tool.
+![image](https://user-images.githubusercontent.com/101008098/219878626-7bc6aa3e-49bc-4cc3-b635-c97806053775.png)
