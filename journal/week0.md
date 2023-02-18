@@ -1,11 +1,7 @@
 # Week 0 — Billing and Architecture
 
 ## Scenario
-<p>The Villainous Organization got together and decided that they needed to improve their service and create an evil microblogging platform to share their 
-Evil Ideas. 
-I immediately applied to this post and because I am in support of such actvities I decided to take on the job for free.
-The Head Villain ,Dr Doom advised me that there was no money left after the budget was spent trying to take over the world so I was advised that there must be little or no cost or I will face the consequences. I agreed to their demands.
-The Organization does not want heroes to sign in so I suggested I will use Amazon Cognito to keep them out.
+<p>The Villainous Organization got together and decided that they needed to improve their service and create an evil microblogging platform to share their Evil Ideas. I immediately applied to this post and because I am in support such activities I decided to take on the job for free. The Head Villain, Dr. Doom advised me that there was no money left after the budget was spent trying to take over the world so I was advised that there must be little or no cost or I will face the consequences. I agreed to their demands. The Organization does not want heroes to sign in so I suggested I will use Amazon Cognito to keep them out.
   </p>
   
 ## Architectural Napkin Design
