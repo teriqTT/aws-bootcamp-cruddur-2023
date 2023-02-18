@@ -2,7 +2,7 @@
 
 
 ## Architectural Napkin Design
-
+![image](/Users/teriqtrim/Downloads/NapkinArchitecturalDiagram.jpeg)
 
 ## Architectural Crudder Design using Lucid.io
 
