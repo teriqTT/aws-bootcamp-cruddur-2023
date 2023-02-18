@@ -3,7 +3,10 @@
 - Application: Cruddur
 - Cohort: 2023-A1
 
-This is the starting codebase that will be used in the FREE AWS Cloud Project Bootcamp 2023
+This is the starting codebase that will be used in the FREE AWS Cloud Project Bootcamp 2023.
+
+Crudder is an evil app for villains all over the world to communicate and share their ideas.
+Join the app if you dare!
 
 ![Cruddur Graphic](_docs/assets/cruddur-banner.jpg)
 
