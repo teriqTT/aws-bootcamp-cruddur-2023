@@ -30,3 +30,7 @@ Here is a link to my lucid.io account: https://lucid.app/lucidchart/49b4f0b7-a16
 
 ## Screenshot showing that I went through the Well Architected Tool.
 ![image](https://user-images.githubusercontent.com/101008098/219878626-7bc6aa3e-49bc-4cc3-b635-c97806053775.png)
+
+## Budget Picture
+![image](https://user-images.githubusercontent.com/101008098/219878855-85891848-ae5e-41b8-b96f-c239aa8be57d.png)
+
