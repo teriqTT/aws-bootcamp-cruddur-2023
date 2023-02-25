@@ -1,6 +1,8 @@
 # Week 1 — App Containerization
 
 ## Run the Dockerfile CMD as an external script. Of note Health check and multistage build are also implemented in my dockerfile.
+
+```
 FROM golang:1.15.3 as builder
 WORKDIR /app/
 COPY . .
@@ -8,14 +10,15 @@ RUN go build -o app /app/main.go
 
 FROM alpine:latest
 WORKDIR /app/
-COPY --from=builder /app/ /app/
-
+COPY --from=builder /app/ /app/ 
 
 HEALTHCHECK CMD curl --fail http://localhost:3000 || exit 1  
 
-CMD ./app
 
+CMD ./app 
+```
 ### *Code for the App Used in the above example.
+```
 package main
 import (
 	"fmt"
@@ -25,7 +28,7 @@ func main() {
 	fmt.Println("Hello Docker this is a test for Cloud Project Bootcamp!")
 	
 }
-
+```
 
 ## Evidence to demonstrate that Docker was installed on my local computer.
 <p> This is a list of my personal docker containers I generated using the docker images command in the VS code.</p>
