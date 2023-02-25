@@ -1,6 +1,6 @@
 # Week 1 — App Containerization
 
-## Run the Dockerfile CMD as an external script. Of note Health check is also implemented in my dockerfile.
+## Run the Dockerfile CMD as an external script. Of note Health check and multistage build are also implemented in my dockerfile.
 FROM golang:1.15.3 as builder
 WORKDIR /app/
 COPY . .
@@ -33,8 +33,11 @@ func main() {
 
 
 ## Evidence to show that I tagged an image and pushed it to Dockerhub.
+<p> Link: </p>
 https://hub.docker.com/layers/celenem/testimage/1.0.0/images/sha256-8ba91b6654ab7e22a29a2ce4e9c4bf0178261a805302dbdb9ac5ff9a7fbfa196?context=repo
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+<p> Image 1 showing picture from my docker hub account </p>
+
 ![image](https://user-images.githubusercontent.com/101008098/221363532-c1c6d6b6-1811-4536-8d22-df25a0f88a2d.png)
 
 
